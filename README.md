@@ -1,9 +1,9 @@
-# Red Book for Free Aerial Imagery During Disasters <a href='https://yercizenler.org'><img src='https://yercizenler.org/wp-content/uploads/2018/09/yer-cizenlerlogo.png' align="right" height="139" /></a>
+# Red Book for Free Aerial Imagery <a href='https://yercizenler.org'><img src='https://yercizenler.org/wp-content/uploads/2018/09/yer-cizenlerlogo.png' align="right" height="139" /></a>
 
-We need very high resolution aerial imagery during disasters for both before and after the event. The image licenses should enable us to perform whatever we do with them and they just don't most of the time. So, you are mostly not free to use them, legally. This document is intended to guide you in imagery sources shared with licenses that we are free for most of the use-case.
+High-resolution aerial imagery is a crucial resource in both pre and post-disaster scenarios. However, the licenses associated with these images often restrict their use, making them legally inaccessible for most purposes. This document aims to provide you with a guide to imagery sources that offer licenses, allowing for a wide range of use cases.
 
 > [!CAUTION]
-> Disclaimer: each disaster is a different case with geopolitical and economical dimensions. There is no guarantee on any of them will be available for your case. And yes, it's not a legal advice.
+> Disclaimer: each disaster is a different case with geopolitical and economic dimensions. There is no guarantee that they will be available for your case. And yes, surprise, it's not a legal advice.
 
 # Table of Contents
 - [Where is Imagery?](##Where-is-Imagery?)
