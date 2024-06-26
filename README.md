@@ -13,8 +13,8 @@ Very high-resolution (<0.5m) aerial imagery is crucial in pre- and post-disaster
 - [Data Licensing](##Data-Licensing)
 - [Where is Free Imagery?](##Where-is-Free-Imagery?)
 - [Details](##Details)
-  - [Use-case specific](###Use-case-Specific-Details)
-  - [Country specific](###Country-Specific-Details)
+  - [Use-case specific](###Use-case-Specific-Details)
+  - [Country specific](###Country-Specific-Details)
 
 ## Where is Imagery?
 Currently, there are many providers for very high-resolution imagery (via satellites, aerial vehicles, drones, etc). Governments or private companies (in tight relations with governments) such as Airbus, Maxar, Planet, and many others have their operations in space or air. Both governments and private companies usually distribute data with 3rd-party companies or institutions. It's not easy to access them without the distributors. There are also community-driven initiatives such as [OpenAerialMap](openaerialmap.org), where people publish their proprietary imagery with free licenses or already free licensed data.
