@@ -17,48 +17,44 @@ Very high-resolution (<0.5m) aerial and satellite imagery is crucial in pre- and
   - [Country specific](#country-specific-details)
 
 ## Where is Imagery?
-Currently, there are many providers for very high-resolution imagery (via satellites, aerial vehicles, drones, etc). Governments or private companies (in tight relations with governments) such as Airbus, Maxar, Planet, and many others have their operations in space or air. Both governments and private companies usually distribute data with 3rd-party companies or institutions. It's not easy to access them without the distributors. There are also community-driven initiatives such as [OpenAerialMap](openaerialmap.org), where people publish their proprietary imagery with free licenses or already free licensed data.
+Currently, there are many providers for very high-resolution imagery (via satellites, aerial vehicles, drones, etc). Governments or private companies (in tight relations with governments) such as Airbus, Maxar, Planet, and many others have their operations in space or air. Both governments and private companies usually distribute data with 3rd-party companies or institutions. It's not easy to access them without the distributors. There are also community-driven initiatives such as [OpenAerialMap](https://openaerialmap.org), where people publish their proprietary imagery with free licenses or already free licensed data.
 
-During disasters, many satellite providers contact [International Disaster Charter](https://disasterscharter.org/web/guest/about-the-charter) to align on imagery acquisitions. Although you can see the images acquired on the activations, the charter does share data with you if you meet the criteria mentioned [here](https://disasterscharter.org/web/guest/how-to-register-as-a-user). Additionally, governments, local initiatives, and international NGOs start imaging with aerial vehicles and drones. Most of the images have proprietary rights, avoiding many of the use cases for the public initatives.
+During disasters, many satellite providers contact [International Disaster Charter](https://disasterscharter.org/web/guest/about-the-charter) to align on imagery acquisitions. Although you can see the images acquired on the activations, the charter does share data with you if you meet the criteria mentioned [here](https://disasterscharter.org/web/guest/how-to-register-as-a-user). Governments, local initiatives, and international NGOs also operate imaging with aerial vehicles and drones. Most of the images have proprietary rights, avoiding many of the use cases for public initiatives.
 
 ## Data Licensing
-Depending on your use case, in which part of the Earth you are, your budget, and many other entangled legal and bureaucratic systems, you are not free to use the imagery you see on your screen. For our scope, [this guidance](https://gkhub.earthobservations.org/packages/p0zg8-02b56) and [this article](https://joemorrison.medium.com/the-commercial-satellite-imagery-business-model-is-broken-6f0e437ec29d) are a nice summary of the issues related to legal and economic boundaries. If you use imagery without proper rights, it's all up to the providers to claim copyright infringement.
+Depending on your use case, in which part of the Earth you are, your budget, and many other entangled legal and bureaucratic systems, you are not free to use the imagery you see on your screen. For our scope, [this guidance](https://gkhub.earthobservations.org/packages/p0zg8-02b56) and [this article](https://joemorrison.medium.com/the-commercial-satellite-imagery-business-model-is-broken-6f0e437ec29d) are a nice summary of the issues related to legal and economic boundaries. If you use imagery without proper rights, it's up to the providers to claim copyright infringement.
 
-Usually, [Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/) enable people to create derivative work on the imagery and publish with the public. Recommended types are listed by [GEO Data and Knowledge Working Group](https://earthobservations.org/organization/working-groups/geo-data-working-group) in [this guide](https://gkhub.earthobservations.org/packages/p0zg8-02b56) Imagery providers are encouraged to publish their data with such licenses so that the people can take action with minimal legal concerns. If the imagery is not with such license, it's best to have your use-case specified in the license.
+Usually, [Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/) enable people to create derivative work on the imagery and publish it to the public. Recommended types are listed by [GEO Data and Knowledge Working Group](https://earthobservations.org/organization/working-groups/geo-data-working-group) in [this guide](https://gkhub.earthobservations.org/packages/p0zg8-02b56) Imagery providers are encouraged to publish their data with such licenses so that the people can take action with minimal legal concerns. If the imagery does not have such a license, it's best to specify your use case in the permit.
 
 ## Where is Free Imagery?
+Not in many places. Below sources are usually the only ones if your government does not share imagery with public.
 
 #### Sources
-- [Post-event Imagery](#Post-event-Imagery)
-  - [OpenAerialMap](#OpenAerialMap)
-  - [Maxar Open Data Program](#Maxar-Open-Data-Program)
-  - [Planet](#Planet)
-  - [Others](#Others)
-- [Pre-event Imagery](#Pre-event-Imagery)
-  - [Esri WorldView Imagery](#Esri-WorldView-Imagery)
-  - [Microsoft Bing](#Microsoft-Bing)
-  - [Others](#Others)
+- [OpenAerialMap](#OpenAerialMap)
+- [Maxar Open Data Program](#Maxar-Open-Data-Program)
+- [Planet](#Planet)
+- [Esri WorldView Imagery](#Esri-WorldView-Imagery)
+- [Microsoft Bing](#Microsoft-Bing)
+- [Others](#Others)
 
-### Post-event Imagery
-...
+### OpenAerialMap
+<a href='https://openaerialmap.org'><img src='https://openaerialmap.org/assets/graphics/meta/oam-logo-h-pos.svg' align="right" height="100" width="200" /></a>
+[OpenAerialMap](https://openaerialmap.org) is a great platform initiated by [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) and maintained by [Kontur](https://www.kontur.io/) to distribute free licensed data during disasters. The platform both clarifies license issues and distribute data in a very efficent way so that you think less about technical details. There are volunteers like us to monitor the events and upload data to OAM.
 
-#### OpenAerialMap
-...
-#### Maxar Open Data Program
-...
-#### Planet
-...
-#### Others
+### Maxar Open Data Program
+<a href='https://www.maxar.com/open-data'><img src='https://www.maxar.com/assets/navbar/maxar-logo-navbar-b16b65d2d6b07ad4cd5fb17b016835a20a6a359158d832293402e231fca26e13.svg' align="right" height="100" width="200" /></a>
+[Maxar Open Data Program](https://www.maxar.com/open-data) is by far the most helpful program offering satellite imagery with [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license which enables crucial use-cases such as digitizing features to upload to OpenStreetMap. You can usually reach their imagery through OpenAerialMap thanks to volunteers uploading.
+
+### Planet
 ...
 
-### Pre-event Imagery
+### Esri WorldView Imagery
 ...
 
-#### Esri WorldView Imagery
+### Microsoft Bing
 ...
-#### Microsoft Bing
-...
-#### Others
+
+### Others
 ...
 
 ## Details
