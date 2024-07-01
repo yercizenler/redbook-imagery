@@ -13,8 +13,8 @@ Very high-resolution (<0.5m) aerial and satellite imagery is crucial in pre- and
 - [Data Licensing](#data-licensing)
 - [Where is Free Imagery?](#where-is-free-imagery)
 - [Details](#details)
-  - [Use-case specific](#use-case-specific-details)
-  - [Country specific](#country-specific-details)
+  - [Use-case specific](#use-case-specific-details)
+  - [Country specific](#country-specific-details)
 
 ## Where is Imagery?
 Currently, there are many providers for very high-resolution imagery (via satellites, aerial vehicles, drones, etc). Governments or private companies (in tight relations with governments) such as Airbus, Maxar, Planet, and many others have their operations in space or air. Both governments and private companies usually distribute data with 3rd-party companies or institutions. It's not easy to access them without the distributors. There are also community-driven initiatives such as [OpenAerialMap](https://openaerialmap.org), where people publish their proprietary imagery with free licenses or already free licensed data.
