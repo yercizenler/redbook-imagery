@@ -57,7 +57,7 @@ Esri enables users on OpenStreetMap to use their base map to edit POIs, as menti
 
 ### Microsoft Bing
 <a href='https://www.bing.com/maps/'><img src='https://upload.wikimedia.org/wikipedia/commons/e/e8/Microsoft_Bing_logo.svg' align="right" height="40" width="200" /></a>
-Esri enables users on OpenStreetMap to use their base map to edit POIs as mentioned [here](https://wiki.openstreetmap.org/wiki/Bing_Maps). You can and should facilitate OpenStreetMap for many use cases.
+Bing enables users on OpenStreetMap to use their base map to edit POIs as mentioned [here](https://wiki.openstreetmap.org/wiki/Bing_Maps). You can and should facilitate OpenStreetMap for many use cases.
 
 ### Others
 Some governments already provide imagery to OpenStreetMap editors or have open data programs. If you don't have an open data program, you probably need to handle complex communication steps to get access. It's worth mentioning new providers such as [Umbra](https://umbra.space/), which is now manipulating the industry with courageous [licensing offerings](https://joemorrison.substack.com/p/how-to-change-an-industry).
