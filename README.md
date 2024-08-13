@@ -76,7 +76,12 @@ During disasters, it's best to sync with Humanitarian OpenStreetMap Team represe
 ### Country Specific Details
 
 #### Countries
+- [:de: Germany](#Germany)
 - [:tr: Turkey](#Turkey)
+
+### Germany
+Germany is probably the best country advocating free data. You can find aerial images in OSM if you'd like to edit. If you'd like to download the images, you need to find the responsible body within a province. For example, Bayerische
+Vermessungsverwaltung releases 40cm orthophotos in [here](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=dop40).
 
 ### Turkey
 The Turkish government doesn't have an open imagery program, and it's also not very easy to access data. Feel free to contact the members of Yercizenler for further guidance.
