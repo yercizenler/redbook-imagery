@@ -45,7 +45,7 @@ During disasters, usually, HOT representatives use OAM base map to edit OpenStre
 
 ### Maxar Open Data Program
 <a href='https://www.maxar.com/open-data'><img src='https://www.maxar.com/assets/navbar/maxar-logo-navbar-b16b65d2d6b07ad4cd5fb17b016835a20a6a359158d832293402e231fca26e13.svg' align="right" height="100" width="200" /></a>
-[Maxar Open Data Program](https://www.maxar.com/open-data) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which enables crucial use cases such as digitizing features to upload to OpenStreetMap. Thanks to volunteers uploading, you can usually access their imagery through OpenAerialMap.
+[Maxar Open Data Program](https://www.maxar.com/open-data) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which [enables](https://maxar-marketing.s3.amazonaws.com/files/downloads/119757_opendataprotocol_2020_04.pdf) crucial use cases such as digitizing features to upload to OpenStreetMap. Thanks to volunteers uploading, you can usually access their imagery through OpenAerialMap.
 
 ### Planet
 <a href='https://www.planet.com/disasterdata/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Planet_Labs_logo.svg/480px-Planet_Labs_logo.svg.png' align="right" height="100" width="200" /></a>
