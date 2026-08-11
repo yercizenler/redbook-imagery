@@ -39,17 +39,19 @@ Only in some places. The sources below are usually the only ones if your governm
 
 ### OpenAerialMap
 <a href='https://openaerialmap.org'><img src='https://openaerialmap.org/assets/graphics/meta/oam-logo-h-pos.svg' align="right" height="100" width="200" /></a>
-[OpenAerialMap](https://openaerialmap.org) is a great platform initiated by [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) and maintained by [Kontur](https://www.kontur.io/) to distribute free licensed data during disasters. The platform clarifies license issues and distributes data in a very efficent way so that you think less about technical details. There are volunteers like us to monitor the events and upload data to OAM.
+[OpenAerialMap](https://openaerialmap.org) is a great platform initiated by [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) and maintained by [Kontur](https://www.kontur.io/) to distribute free licensed data during disasters. The platform clarifies licensing issues and distributes data efficiently, so you can focus less on technical details. There are volunteers like us to monitor the events and upload data to OAM.
 
 During disasters, usually, HOT representatives use OAM base map to edit OpenStreetMap Point of Interests (POI) collaboratively thanks to [the mosaic layer](https://www.kontur.io/solutions/global-orthomosaic-layer/) provided by Kontur.
 
-### Maxar Open Data Program
-<a href='https://www.maxar.com/open-data'><img src='https://www.maxar.com/assets/navbar/maxar-logo-navbar-b16b65d2d6b07ad4cd5fb17b016835a20a6a359158d832293402e231fca26e13.svg' align="right" height="100" width="200" /></a>
-[Maxar Open Data Program](https://www.maxar.com/open-data) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which [enables](https://maxar-marketing.s3.amazonaws.com/files/downloads/119757_opendataprotocol_2020_04.pdf) crucial use cases such as digitizing features to upload to OpenStreetMap. Thanks to volunteers uploading, you can usually access their imagery through OpenAerialMap.
+### Vantor Open Data Program
+<a href='https://vantor.com/company/open-data-program'><img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Vantor_logo.svg' align="right" height="100" width="200" /></a>
+[Vantor Open Data Program](https://vantor.com/company/open-data-program) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which [enables](https://maxar-marketing.s3.amazonaws.com/files/downloads/119757_opendataprotocol_2020_04.pdf) crucial use cases such as digitizing features to upload to OpenStreetMap. Thanks to volunteers uploading, you can usually access their imagery through OpenAerialMap.
+
+Vantor used to be called Maxar.
 
 ### Planet
 <a href='https://www.planet.com/disasterdata/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Planet_Labs_logo.svg/480px-Planet_Labs_logo.svg.png' align="right" height="100" width="200" /></a>
-Planet does not share data as openly as Maxar, but they are quite active and responsive during disasters and likely to share data with you if you are after using data for public benefit. You should contact them through their [disaster data page](https://www.planet.com/disasterdata/).
+Planet does not share data as openly as Maxar, but they are quite active and responsive during disasters and likely to share data with you if you are after using data for public benefit. You should contact them through their [disaster data page](https://www.planet.com/disasterdata/). For the first time (here)[https://www.linkedin.com/posts/andrew-hassanali_dear-humanitarian-colleagues-with-devastating-share-7476409828630921216-avBh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbfwgcBp2dp0x5Gf53TmAL-3WWv4kttl98], they announced [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license but without any specifity for OSM use.
 
 ### Esri World Imagery
 <a href='https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9'><img src='https://upload.wikimedia.org/wikipedia/de/thumb/4/46/ESRI_Logo.svg/1416px-ESRI_Logo.svg.png?20111006175738' align="right" height="40" width="200" /></a>
