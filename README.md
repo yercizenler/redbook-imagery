@@ -50,8 +50,8 @@ During disasters, usually, HOT representatives use OAM base map to edit OpenStre
 Vantor used to be called Maxar.
 
 ### Planet
-<a href='https://www.planet.com/disasterdata/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Planet_Labs_logo.svg/480px-Planet_Labs_logo.svg.png' align="right" height="100" width="200" /></a>
-Planet does not share data as openly as Maxar, but they are quite active and responsive during disasters and likely to share data with you if you are after using data for public benefit. You should contact them through their [disaster data page](https://www.planet.com/disasterdata/). For the first time (here)[https://www.linkedin.com/posts/andrew-hassanali_dear-humanitarian-colleagues-with-devastating-share-7476409828630921216-avBh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbfwgcBp2dp0x5Gf53TmAL-3WWv4kttl98], they announced [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license but without any specificity for OSM use.
+<a href='https://www.planet.com/disasterdata/'><img src='https://upload.wikimedia.org/wikipedia/commons/3/39/Planet_logo_New.png' align="right" height="100" width="200" /></a>
+Planet does not share data as openly as Maxar, but they are quite active and responsive during disasters and likely to share data with you if you are after using data for public benefit. You should contact them through their [disaster data page](https://www.planet.com/disasterdata/). For the first time [here](https://www.linkedin.com/posts/andrew-hassanali_dear-humanitarian-colleagues-with-devastating-share-7476409828630921216-avBh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbfwgcBp2dp0x5Gf53TmAL-3WWv4kttl98), they announced [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license but without any specificity for OSM use.
 
 ### Esri World Imagery
 <a href='https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9'><img src='https://upload.wikimedia.org/wikipedia/de/thumb/4/46/ESRI_Logo.svg/1416px-ESRI_Logo.svg.png?20111006175738' align="right" height="40" width="200" /></a>
