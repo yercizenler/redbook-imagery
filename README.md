@@ -54,7 +54,7 @@ Vantor used to be called Maxar.
 Planet does not share data as openly as Maxar, but they are quite active and responsive during disasters and likely to share data with you if you are after using data for public benefit. You should contact them through their [disaster data page](https://www.planet.com/disasterdata/). For the first time [here](https://www.linkedin.com/posts/andrew-hassanali_dear-humanitarian-colleagues-with-devastating-share-7476409828630921216-avBh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbfwgcBp2dp0x5Gf53TmAL-3WWv4kttl98), they announced [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license but without any specificity for OSM use.
 
 ### Esri World Imagery
-<a href='https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9'><img src='https://upload.wikimedia.org/wikipedia/de/thumb/4/46/ESRI_Logo.svg/1416px-ESRI_Logo.svg.png?20111006175738' align="right" height="40" width="200" /></a>
+<a href='https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9'><img src='https://de.wikipedia.org/wiki/ESRI#/media/Datei:ESRI_Logo.svg' align="right" height="40" width="200" /></a>
 Esri enables users on OpenStreetMap to edit POIs using their base map, as mentioned [here](https://wiki.openstreetmap.org/wiki/Esri). You can and should facilitate OpenStreetMap for many use cases. They usually have pre-event images.
 
 ### Microsoft Bing
