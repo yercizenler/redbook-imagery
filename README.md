@@ -21,6 +21,8 @@ Currently, there are many providers for very high-resolution imagery (via satell
 
 During disasters, many satellite providers contact [International Disaster Charter](https://disasterscharter.org/web/guest/about-the-charter) to align on imagery acquisitions. Although you can see the images acquired on the activations, the charter does share data with you if you meet the criteria mentioned [here](https://disasterscharter.org/web/guest/how-to-register-as-a-user). Governments, local initiatives, and international NGOs also operate imaging with aerial vehicles and drones. Most of the images are under proprietary rights, limiting many of the use cases for public initiatives.
 
+Batu gave a talk about this [here](https://www.youtube.com/watch?v=JO0ukEIBMkg).
+
 ## Data Licensing
 Depending on your use case, in which part of the Earth you are, your budget, and many other entangled legal and bureaucratic systems, you are not free to use the imagery you see on your screen. For our scope, [this guidance](https://gkhub.earthobservations.org/packages/p0zg8-02b56) and [this article](https://joemorrison.medium.com/the-commercial-satellite-imagery-business-model-is-broken-6f0e437ec29d) are a nice summary of the issues related to legal and economic boundaries. If you use imagery without proper rights, it's up to the providers to claim copyright infringement.
 
@@ -45,7 +47,9 @@ During disasters, usually, HOT representatives use OAM base map to edit OpenStre
 
 ### Vantor Open Data Program
 <a href='https://vantor.com/company/open-data-program'><img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Vantor_logo.svg' align="right" height="100" width="200" /></a>
-[Vantor Open Data Program](https://vantor.com/company/open-data-program) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which [enables](https://maxar-marketing.s3.amazonaws.com/files/downloads/119757_opendataprotocol_2020_04.pdf) crucial use cases such as digitizing features to upload to OpenStreetMap. Thanks to volunteers uploading, you can usually access their imagery through OpenAerialMap.
+[Vantor Open Data Program](https://vantor.com/company/open-data-program) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which [enables](https://maxar-marketing.s3.amazonaws.com/files/downloads/119757_opendataprotocol_2020_04.pdf) crucial use cases such as digitizing features to upload to OpenStreetMap. Thanks to volunteers who upload, you can usually access their imagery on OpenAerialMap.
+
+There is now a good tool called [GeoLibre](https://geolibre.app/) integrated this data source, as explained [here](https://www.youtube.com/watch?v=KHWnYTfO_R0).
 
 Vantor used to be called Maxar.
 
