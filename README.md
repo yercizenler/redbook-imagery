@@ -19,9 +19,9 @@ Very high-resolution (<1m) aerial and satellite imagery is crucial in pre- and p
 ## Where is Imagery?
 Currently, there are many providers for very high-resolution imagery (via satellites, aerial vehicles, drones, etc). Governments or private companies (in close relations with governments), such as Airbus, Vantor (formerly Maxar), Planet, and many others, operate in space or in the air. Both governments and private companies usually distribute data with 3rd-party companies or institutions. It's not easy to access them without the distributors. There are also community-driven initiatives such as [OpenAerialMap](https://openaerialmap.org), where people publish their proprietary imagery under free licenses or as already free-licensed data.
 
-During disasters, many satellite providers contact [International Disaster Charter](https://disasterscharter.org/web/guest/about-the-charter) to align on imagery acquisitions. Although you can see the images acquired on the activations, the charter does share data with you if you meet the criteria mentioned [here](https://disasterscharter.org/web/guest/how-to-register-as-a-user). Governments, local initiatives, and international NGOs also operate imaging with aerial vehicles and drones. Most of the images are under proprietary rights, limiting many of the use cases for public initiatives.
+During disasters, many satellite providers contact [International Disaster Charter](https://disasterscharter.org/web/guest/about-the-charter) to align on imagery acquisitions. Although you can see the images acquired on the activations, the charter does share data with you if you meet the criteria mentioned [here](https://disasterscharter.org/web/guest/how-to-register-as-a-user). Governments, local initiatives, and international NGOs also operate imaging with aerial vehicles and drones. Most of the images are under proprietary rights, limiting many of the use cases for public initiatives. Batu gave a talk about this [here](https://www.youtube.com/watch?v=JO0ukEIBMkg).
 
-Batu gave a talk about this [here](https://www.youtube.com/watch?v=JO0ukEIBMkg).
+There is now [Common Space](https://www.commonspace.world/), which strives to solve this problem for Humanity. The authors of this document think strictly that we are all Humans.
 
 ## Data Licensing
 Depending on your use case, in which part of the Earth you are, your budget, and many other entangled legal and bureaucratic systems, you are not free to use the imagery you see on your screen. For our scope, [this guidance](https://gkhub.earthobservations.org/packages/p0zg8-02b56) and [this article](https://joemorrison.medium.com/the-commercial-satellite-imagery-business-model-is-broken-6f0e437ec29d) are a nice summary of the issues related to legal and economic boundaries. If you use imagery without proper rights, it's up to the providers to claim copyright infringement.
@@ -43,11 +43,11 @@ Only in some places. The sources below are usually the only ones if your governm
 <a href='https://openaerialmap.org'><img src='https://openaerialmap.org/assets/graphics/meta/oam-logo-h-pos.svg' align="right" height="100" width="200" /></a>
 [OpenAerialMap](https://openaerialmap.org) is a great platform initiated by [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) and maintained by [Kontur](https://www.kontur.io/) to distribute free licensed data during disasters. The platform clarifies licensing issues and distributes data efficiently, so you can focus less on technical details. There are volunteers like us to monitor the events and upload data to OAM.
 
-During disasters, usually, HOT representatives use OAM base map to edit OpenStreetMap Point of Interests (POI) collaboratively thanks to [the mosaic layer](https://www.kontur.io/solutions/global-orthomosaic-layer/) provided by Kontur.
+During disasters, HOT representatives usually use the OAM base map to collaboratively edit [OpenStreetMap](https://www.openstreetmap.org) Point of Interest (POI) data thanks to [the mosaic layer](https://www.kontur.io/solutions/global-orthomosaic-layer/) provided by Kontur. OAM is another round of development by [Development Seed](https://developmentseed.org/), as published [here](https://www.hotosm.org/en/news/openaerialmap-v2-faster-better-imagery-access-for-humanitarian-mapping/).
 
 ### Vantor Open Data Program
 <a href='https://vantor.com/company/open-data-program'><img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Vantor_logo.svg' align="right" height="100" width="200" /></a>
-[Vantor Open Data Program](https://vantor.com/company/open-data-program) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which [enables](https://maxar-marketing.s3.amazonaws.com/files/downloads/119757_opendataprotocol_2020_04.pdf) crucial use cases such as digitizing features to upload to OpenStreetMap. Thanks to volunteers who upload, you can usually access their imagery on OpenAerialMap.
+[Vantor Open Data Program](https://vantor.com/company/open-data-program) is by far the most helpful program offering satellite imagery with a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, which [enables](https://maxar-marketing.s3.amazonaws.com/files/downloads/119757_opendataprotocol_2020_04.pdf) crucial use cases such as digitizing features to upload to [OpenStreetMap](https://www.openstreetmap.org). Thanks to the volunteers who upload, you can usually access their imagery on OpenAerialMap.
 
 There is now a good tool called [GeoLibre](https://geolibre.app/) integrated this data source, as explained [here](https://www.youtube.com/watch?v=KHWnYTfO_R0).
 
@@ -55,18 +55,18 @@ Vantor used to be called Maxar.
 
 ### Planet
 <a href='https://www.planet.com/disasterdata/'><img src='https://upload.wikimedia.org/wikipedia/commons/3/39/Planet_logo_New.png' align="right" height="100" width="200" /></a>
-Planet does not share data as openly as Maxar, but they are quite active and responsive during disasters and likely to share data with you if you are after using data for public benefit. You should contact them through their [disaster data page](https://www.planet.com/disasterdata/). For the first time [here](https://www.linkedin.com/posts/andrew-hassanali_dear-humanitarian-colleagues-with-devastating-share-7476409828630921216-avBh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbfwgcBp2dp0x5Gf53TmAL-3WWv4kttl98), they announced [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license but without any specificity for OSM use.
+Planet does not share data as openly as Maxar, but they are quite active and responsive during disasters and likely to share data with you if you are after using data for public benefit. You should contact them through their [disaster data page](https://www.planet.com/disasterdata/). For the first time [here](https://www.linkedin.com/posts/andrew-hassanali_dear-humanitarian-colleagues-with-devastating-share-7476409828630921216-avBh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbfwgcBp2dp0x5Gf53TmAL-3WWv4kttl98), they announced [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license but without any specificity for [OpenStreetMap](https://www.openstreetmap.org) use.
 
 ### Esri World Imagery
 <a href='https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9#overview'><img src='https://upload.wikimedia.org/wikipedia/de/4/46/ESRI_Logo.svg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=original' align="right" height="40" width="200" /></a>
-Esri enables users on OpenStreetMap to edit POIs using their base map, as mentioned [here](https://wiki.openstreetmap.org/wiki/Esri). You can and should facilitate OpenStreetMap for many use cases. They usually have pre-event images.
+Esri enables users on [OpenStreetMap](https://www.openstreetmap.org) to edit POIs using their base map, as mentioned [here](https://wiki.openstreetmap.org/wiki/Esri). You can and should facilitate OpenStreetMap for many use cases. They usually have pre-event images.
 
 ### Microsoft Bing
 <a href='https://www.bing.com/maps/'><img src='https://upload.wikimedia.org/wikipedia/commons/e/e8/Microsoft_Bing_logo.svg' align="right" height="40" width="200" /></a>
-Bing enables users on OpenStreetMap to edit POIs using their base map, as mentioned [here](https://wiki.openstreetmap.org/wiki/Bing_Maps). You can and should facilitate OpenStreetMap for many use cases.
+Bing enables users on [OpenStreetMap](https://www.openstreetmap.org) to edit POIs using their base map, as mentioned [here](https://wiki.openstreetmap.org/wiki/Bing_Maps). You can and should facilitate OpenStreetMap for many use cases. They usually have pre-event images and are evaluated as not very good.
 
 ### Others
-Some governments already provide imagery to OpenStreetMap editors or have open data programs. If you don't have an open data program, you probably need to handle complex communication steps to get access. It's worth mentioning new providers such as [Umbra](https://umbra.space/), which is now manipulating the industry with courageous [licensing offerings](https://joemorrison.substack.com/p/how-to-change-an-industry).
+Some governments already provide imagery to [OpenStreetMap](https://www.openstreetmap.org) editors or have open data programs. If you don't have an open data program, you'll likely need to handle complex communication steps to obtain access. It's worth mentioning new providers such as [Umbra](https://umbra.space/), which is now manipulating the industry with courageous [licensing offerings](https://joemorrison.substack.com/p/how-to-change-an-industry).
 
 ## Details
 
@@ -76,7 +76,7 @@ Some governments already provide imagery to OpenStreetMap editors or have open d
 - [Using data to edit POIs in OpenStreetMap](#Using-data-to-edit-POIs-in-OpenStreetMap)
 
 #### Using data to edit POIs in OpenStreetMap
-During disasters, it's best to sync with Humanitarian OpenStreetMap Team representatives to determine which license is required for imagery to edit POIs and upload to OpenStreetMap. For other use cases, you can find further details in [wiki](https://wiki.openstreetmap.org/) for resources.
+During disasters, it's best to sync with [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) representatives to determine which license is required for imagery to edit POIs and upload to [OpenStreetMap](https://www.openstreetmap.org). For other use cases, you can find further details in [wiki](https://wiki.openstreetmap.org/) for resources.
 
 
 ### Country Specific Details
