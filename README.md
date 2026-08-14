@@ -33,7 +33,7 @@ Only in some places. The sources below are usually the only ones if your governm
 
 #### Sources
 - [OpenAerialMap](#OpenAerialMap)
-- [Maxar Open Data Program](#Maxar-Open-Data-Program)
+- [Vantor Open Data Program](#Vantor-Open-Data-Program)
 - [Planet](#Planet)
 - [Esri World Imagery](#Esri-World-Imagery)
 - [Microsoft Bing](#Microsoft-Bing)
